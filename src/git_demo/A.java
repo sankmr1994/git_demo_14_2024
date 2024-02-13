@@ -6,4 +6,5 @@ public class A {
 	int master;
 	int f1;
 	int d;
+	int c;
 }
