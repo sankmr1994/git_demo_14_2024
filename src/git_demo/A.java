@@ -5,4 +5,5 @@ public class A {
 	int b;
 	int master;
 	int f1;
+	int d;
 }
