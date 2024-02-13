@@ -8,4 +8,5 @@ public class A {
 	int d;
 	int c;
 	int f11;
+	int master1;
 }
