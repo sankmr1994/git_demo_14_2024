@@ -7,4 +7,5 @@ public class A {
 	int f1;
 	int d;
 	int c;
+	int master1;
 }
