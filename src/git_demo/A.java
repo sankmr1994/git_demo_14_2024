@@ -16,4 +16,5 @@ public class A {
 	int dev1_new;
 	int dev2_new;
 	String dev1_s;
+	String dev2_s;
 }
