@@ -15,4 +15,5 @@ public class A {
 	int dev2;
 	int dev1_new;
 	int dev2_new;
+	String dev2_s;
 }
