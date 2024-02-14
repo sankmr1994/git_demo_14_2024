@@ -13,4 +13,5 @@ public class A {
 	String master3;
 	String f2;
 	int dev2;
+	int dev1_new;
 }
