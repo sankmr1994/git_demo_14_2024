@@ -11,4 +11,5 @@ public class A {
 	int master1;
 	String master2;
 	String master3;
+	String f2;
 }
