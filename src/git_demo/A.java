@@ -9,4 +9,5 @@ public class A {
 	int c;
 	int f11;
 	int master1;
+	String master2;
 }
